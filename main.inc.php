@@ -5,7 +5,7 @@ Version: 1.1.0
 Description: Stripe payment gateway for the Cart plugin. Requires the "cart" plugin to be active.
 Author: Webgoodies
 Has Settings: true
-License: GPL3
+License: GPL2
 */
 
 defined('PHPWG_ROOT_PATH') or die('Hacking attempt!');
